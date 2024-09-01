@@ -2,17 +2,17 @@ Algoritmo "quest01"
 //  
 //  
 // 
-// Função:Mostrar na tela  a mensagem "Olá Mundo!"
+// FunÃ§Ã£o:Mostrar na tela  a mensagem "OlÃ¡ Mundo!"
 // Autor(a): Juliana Rodrigues Ferreira
 // Ano: 2024
-// Lista de Exercícios do Curso Em Video - Prof: Gustavo Guanabara
+// Lista de ExercÃ­cios do Curso Em Video - Prof: Gustavo Guanabara
 
 Var
-//declaração de varíável
+//declaraÃ§Ã£o de varÃ­Ã¡vel
 msg: caractere
 Inicio
-// Mensagem recebe "Olá, mundo!"
-msg <-"Olá, mundo!"
-//Comando de saída "escreva". Para mostar msg na tela
+// Mensagem recebe "OlÃ¡, mundo!"
+msg <-"OlÃ¡, mundo!"
+//Comando de saÃ­da "escreva". Para mostar msg na tela
 escreva(msg)
 Fimalgoritmo
