@@ -2,15 +2,15 @@ Algoritmo "primeiro"
 //  
 //  
 // 
-// FunÁ„o:Mostrar na tela  a mensagem "Ol· Mundo!"
+// Fun√ß√£o:Mostrar na tela  a mensagem "Ol√° Mundo!"
 // Autor(a): Juliana Rodrigues Ferreira
 // Ano: 2024
-// Lista de ExercÌcios do Curso Em Video - Prof: Gustavo Guanabara
+// Lista de Exerc√≠cios do Curso Em Video - Prof: Gustavo Guanabara
 
 
 Var
 msg: caractere
 Inicio
-msg <-"Ol·, mundo!"
+msg <-"Ol√°, mundo!"
 escreva(msg)
 Fimalgoritmo
